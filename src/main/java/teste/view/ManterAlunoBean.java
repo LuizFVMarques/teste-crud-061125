@@ -45,6 +45,7 @@ public class ManterAlunoBean implements Serializable{
 		log.debug("init pesquisa"); 
 		this.setAlunos(manterAlunoService.buscarTodos());
 		this.setProfessores(manteProfessorService.buscarTodos());
+		this.setProfessores(manteProfessorService.buscarTodos());
 		limpar();
 	}
 	

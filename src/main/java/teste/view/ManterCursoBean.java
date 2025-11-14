@@ -51,7 +51,7 @@ public class ManterCursoBean implements Serializable{
         addMessage(null, new FacesMessage(FacesMessage.SEVERITY_INFO,
         		"O curso foi gravado com sucesso!", 
         		curso.toString()));
-		
+		limpar();
 		log.info("curso: " + curso.toString());
 	}
 	
