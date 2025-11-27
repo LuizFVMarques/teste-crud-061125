@@ -12,7 +12,11 @@ C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\view\ManterProfes
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\model\dao\ProfessorDao.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\view\ManterAlunoBean.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\service\ManterCursoService.java
+C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\view\ManterDisciplinaBean.java
+C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\model\Disciplina.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\model\dao\CursoDao.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\service\ManterAlunoService.java
+C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\service\ManterDisciplinaService.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\view\ManterCursoBean.java
 C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\util\jpa\Transactional.java
+C:\Users\aluno\Downloads\teste-crud-061125\src\main\java\teste\model\dao\DisciplinaDao.java
